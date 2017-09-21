@@ -1,0 +1,6 @@
+--firefox
+--slack
+--chrome
+--winword
+--iexplore
+--explorer

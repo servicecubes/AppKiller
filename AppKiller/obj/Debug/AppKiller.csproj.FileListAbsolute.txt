@@ -1,0 +1,7 @@
+C:\Users\RnD-Kollol\source\repos\AppKiller\AppKiller\bin\Debug\AppKiller.exe.config
+C:\Users\RnD-Kollol\source\repos\AppKiller\AppKiller\bin\Debug\AppKiller.exe
+C:\Users\RnD-Kollol\source\repos\AppKiller\AppKiller\bin\Debug\AppKiller.pdb
+C:\Users\RnD-Kollol\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.csprojResolveAssemblyReference.cache
+C:\Users\RnD-Kollol\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.csproj.CoreCompileInputs.cache
+C:\Users\RnD-Kollol\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.exe
+C:\Users\RnD-Kollol\source\repos\AppKiller\AppKiller\obj\Debug\AppKiller.pdb
